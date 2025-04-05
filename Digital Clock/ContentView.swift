@@ -14,7 +14,6 @@
 // 3. タイマーの状態を管理するためのプロパティの利用
 // 4. デジタル時計の表示
 //
-
 import SwiftUI
 
 struct ContentView: View {
